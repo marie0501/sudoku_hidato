@@ -1,0 +1,1 @@
+HidatoBoard {fixed = fromList [(1,P {xv = 2, yv = 4}),(2,P {xv = 1, yv = 3}),(3,P {xv = 1, yv = 4}),(8,P {xv = 2, yv = 1}),(10,P {xv = 2, yv = 0}),(11,P {xv = 1, yv = 0}),(12,P {xv = 0, yv = 0})], available = fromList [(P {xv = 0, yv = 3},0),(P {xv = 0, yv = 4},0),(P {xv = 1, yv = 1},0),(P {xv = 1, yv = 2},0),(P {xv = 2, yv = 2},0)], cellt = Square}
